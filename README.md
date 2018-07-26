@@ -8,7 +8,7 @@ Software Carpentry Etherpad: http://pad.software-carpentry.org/Berkeley-06-12
 
 Link to Instructor Guide: http://swcarpentry.github.io/r-novice-inflammation/
 
-Programming with R -- Summary of Basic Operations: http://swcarpentry.github.io/r-novice-inflammation/reference/
+Programming with R -- Summary of Basic Operations: http://swcarpentry.github.io/r-novice-inflammation/reference
 
 Syllabus:
 
