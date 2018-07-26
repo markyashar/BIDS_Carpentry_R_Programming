@@ -1,6 +1,6 @@
 Intro to Shell, Git, and R -- Software Carpentry Workshop @ BIDS (Berkeley) Monday, June 11, 2018 Berkeley Institute for Data Science (BIDS) University of California, Berkeley 190 Doe Library Berkeley, CA 94720
 
-This repository includes files, examples, practice commands and scripts used in the "Building Programs with R" section of the workshop.
+This repository includes files, examples, notes, scripts, and programs used in the "Building Programs with R" section of the workshop.
 
 Workshop Website: https://bids.github.io/2018-06-11-bids
 
